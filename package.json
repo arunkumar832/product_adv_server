@@ -1,0 +1,26 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "BackEnd Nodejs Server of Gatsby Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunkumar832/product_adv_server.git"
+  },
+  "author": "Arunkumar G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunkumar832/product_adv_server/issues"
+  },
+  "homepage": "https://github.com/arunkumar832/product_adv_server#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "engines": {
+    "node": "17.3.0"
+  }
+}
